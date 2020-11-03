@@ -1,0 +1,20 @@
+canvas {
+  border: 2px solid purple;
+  margin-left: 14vw;
+}
+
+<style > @@font-face {
+  font-family: "Righteous";
+  src: url(https://fonts.googleapis.com/css2?family=Righteous&display=swap);
+}
+
+nav,
+a {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bold;
+  font-size: small;
+  color: purple;
+  margin-bottom: 30px;
+  margin-left: 7vw;
+}
+
