@@ -8,7 +8,7 @@ body{margin-left: 15vw;
 
 h1, h3{font-family: "Righteous";}
 
-nav, a{font-family: Verdana, Geneva, Tahoma, sans-serif;
+nav > a{font-family: Verdana, Geneva, Tahoma, sans-serif;
 font-weight: bold;
 font-size: small;
 color: purple;}
