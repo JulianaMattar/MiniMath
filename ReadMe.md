@@ -1,8 +1,8 @@
-#MiniMath
-###a little exercise for mental muscles
+# MiniMath
+### a little exercise for mental muscles
 ![MathSymbols](/images/cute-math-set.jpg)
 
-####About
+#### About
 
 When I was in 6th grade, my favorite subjects were English, Portuguese, and Math. My then math teacher (Hi, Mr. Forbes!) was in the process of teaching us multiplication and division and, every Friday, he would have us play a game:
 
