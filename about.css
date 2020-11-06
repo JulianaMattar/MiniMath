@@ -1,46 +1,70 @@
-<style>
-@@font-face{ font-family: "Righteous"; 
-   src: url(https://fonts.googleapis.com/css2?family=Righteous&display=swap);}
-
-body{margin-left: 15vw;
-    margin-right: 15vw;
+@font-face {
+  font-family: "Righteous";
+  src: url(https://fonts.googleapis.com/css2?family=Righteous&display=swap);
 }
 
-h1, h3{font-family: "Righteous";}
-
-nav > a{font-family: Verdana, Geneva, Tahoma, sans-serif;
-font-weight: bold;
-font-size: small;
-color: purple;}
-
-h1{font-size: 50px;
-display: flex;
-justify-content: center;
-color: purple;
-margin-bottom: 0;}
-
-h3{font-size: 20px;
-display: flex;
-justify-content: center;
-color: firebrick;
-margin-top: 4px;}
-
-p, div, ul, ol{font-family: Verdana, Geneva, Tahoma, sans-serif;
+body {
+  margin-left: 15vw;
+  margin-right: 15vw;
 }
 
-p, div{justify-self: stretch;
-    }
+h1,
+h3 {
+  font-family: "Righteous";
+}
 
-p{font-size: 14px;
-line-height: 1.5rem;}
+nav > a {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bold;
+  font-size: small;
+  color: purple;
+}
 
-ol li{font-size: 14px;}
+h1 {
+  font-size: 50px;
+  display: flex;
+  justify-content: center;
+  color: purple;
+  margin-bottom: 0;
+}
 
-ol{list-style: lower-roman;}
+h3 {
+  font-size: 20px;
+  display: flex;
+  justify-content: center;
+  color: firebrick;
+  margin-top: 4px;
+}
 
-li{line-height: 1.5rem;}
+p,
+div,
+ul,
+ol {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
 
-footer{font-size: xx-small;}
+p,
+div {
+  justify-self: stretch;
+}
 
-</style>
+p {
+  font-size: 14px;
+  line-height: 1.5rem;
+}
 
+ol li {
+  font-size: 14px;
+}
+
+ol {
+  list-style: lower-roman;
+}
+
+li {
+  line-height: 1.5rem;
+}
+
+footer {
+  font-size: xx-small;
+}
