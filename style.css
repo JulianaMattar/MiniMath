@@ -1,20 +1,64 @@
-canvas {
-  border: 2px solid purple;
-  margin-left: 14vw;
-}
-
-<style > @@font-face {
+@font-face {
   font-family: "Righteous";
   src: url(https://fonts.googleapis.com/css2?family=Righteous&display=swap);
 }
 
-nav,
-a {
+nav > a {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-weight: bold;
   font-size: small;
   color: purple;
-  margin-bottom: 30px;
-  margin-left: 7vw;
 }
 
+body {
+  margin-left: 15vw;
+  margin-right: 15vw;
+}
+
+h1,
+h3 {
+  font-family: "Righteous";
+}
+
+h1 {
+  font-size: 50px;
+  display: flex;
+  justify-content: center;
+  color: purple;
+  margin-bottom: 0;
+  margin-top: 1rem;
+}
+
+h3 {
+  font-size: 20px;
+  display: flex;
+  justify-content: center;
+  color: firebrick;
+  margin-top: 4px;
+}
+
+#playBtn {
+  border-radius: 28px;
+  font-family: "Righteous";
+  font-weight: bold;
+  color: purple;
+  font-size: 20px;
+  padding: 19px;
+  margin-left: 19em;
+  background: transparent;
+}
+
+#initialFrame {
+  padding-bottom: 2rem;
+  margin-top: 1rem;
+}
+
+#letsGo {
+  border-radius: 28px;
+  font-family: "Righteous";
+  font-weight: bold;
+  color: purple;
+  font-size: 20px;
+  padding: 19px;
+  background: transparent;
+}

@@ -1,0 +1,45 @@
+form > div {
+  height: 65vh;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  justify-content: center;
+  align-content: stretch;
+  align-items: center;
+}
+
+form > label,
+input {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  margin-bottom: 20px;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-top: 0;
+  padding-top: 0;
+}
+
+#submitBtn {
+  background: transparent;
+  border-radius: 18px;
+  font-family: "Righteous";
+  font-weight: bold;
+  color: purple;
+  font-size: 20px;
+  padding: 19px;
+}
+
+p {
+  font-family: "Righteous";
+  font-weight: bold;
+  font-size: 3rem;
+  display: flex;
+  justify-content: center;
+  margin-top: 0;
+  margin-bottom: 0;
+}
